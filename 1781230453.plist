@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/i0hwf1j239cdqhijq9625/TikTok-40.2.1-binz7.3.ipa?rlkey=h0111t9b9xmu6infiyvjujnvw&amp;st=5r0skdvu&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://chungchi.store/source/images/logo.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.ss.iphone.ugc.Ame</string>
+<key>bundle-version</key>
+<string>40.2.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Tiktok binz7.3</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
