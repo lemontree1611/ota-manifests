@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/ii9cwcwnbhrgx4fljto7c/TikTok-34.4.0-lehoanganh250105.ipa?rlkey=l4qyzpxtps4p5nf4nf0129990&amp;st=ikorkgqu&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://chungchi.store/source/images/logo.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.ss.iphone.ugc.Ame</string>
+<key>bundle-version</key>
+<string>40.2.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Tiktok dungthoai321</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
