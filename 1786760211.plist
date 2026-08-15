@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://decrypt.day/fs/dl/s/iqBlkTlOVoAZSdyrUb8o9/com.nianticlabs.pokemongo_0.423.1_und3fined.ipa?X-Amz-Expires=300&amp;X-Amz-Date=20260815T021527Z&amp;X-Amz-Security-Token=a2b4b10bab430738-TPE.MpuXwHJs1O5gyTmDna3yj.1094591345&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=5984fa5d025ac1fb47a47653444599a2%2F20260815%2Fauto%2F%2Faws4_request&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=efd9ed38c6fdf67c8b53f2105f456486598af1c7e18bb2cc99f601d0e83a9ef5</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://chungchi.store/source/images/logo.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.nianticlabs.pokemongo</string>
+<key>bundle-version</key>
+<string>0.423.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Pokemon Go</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
