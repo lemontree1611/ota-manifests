@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/9ogx6b9gj51qf3c70gpjm/TikTok-40.2.1-mycutephomaique2007.ipa?rlkey=f3u1m94nkp3l4f333y6h2i4fs&amp;st=fxcf2b49&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://chungchi.store/source/images/logo.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.ss.iphone.ugc.Ame</string>
+<key>bundle-version</key>
+<string>40.2.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>TikTok mycutephomaique2007</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
