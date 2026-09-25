@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/bx9r0w18zuq790dx96y9w/TikTok-43.4.0-shandasuggs.ipa?rlkey=twn9az9yjrdk24jqtk7g44fzy&amp;st=tp3asq35&amp;dl=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://chungchi.store/source/images/logo.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.ss.iphone.ugc.Ame</string>
+<key>bundle-version</key>
+<string>43.4.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>TikTok 43.4.0 shandasuggs</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
