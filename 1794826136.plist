@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://raw.githubusercontent.com/teddyhubdev/diepvy/refs/heads/main/TeddyHub-kaitunBF.lua?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80Mzc2MjYzMTY5NzM3ODgAAR_MKK1HK4lppcZQ7mLMHB26CLaHsUpVJvpr7rvoGuoKDl_NT9nlXOrzWiwbBw_aem_d3wRgD9WEAI1acrSEs51MQ</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://cdn-icons-png.flaticon.com/512/552/552458.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>Hack</string>
+<key>bundle-version</key>
+<string>1.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Hack</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
